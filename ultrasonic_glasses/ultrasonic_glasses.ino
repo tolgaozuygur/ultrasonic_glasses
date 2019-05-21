@@ -1,6 +1,6 @@
 /*
  Ultrasonic Glasses Project for Visually Impaired
- by Tolga Ozuygur
+ by Tolga Ozuygur and Cem Sina Cetin
 */
 
 const int anPin = 0;
