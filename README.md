@@ -41,6 +41,8 @@ Print the stl files in the 3d_files folder. The do not need any support, just pr
 
 Try to align the charging port of the LiPo Rider with the hole on the case. 
 
+You can also paint the case and the glasses to make it look a little bit more polished. I used the color Tar Black from Molotov. 
+
 >Here is a photo of the assembled device. The battery is behind the LiPo Rider.
 
 <img src="https://github.com/tolgaozuygur/ultrasonic_glasses/blob/master/ultrasonic_glasses_circuit_photo.jpg" title="Ultrasonic Sensor Circuit" alt="Ultrasonic Sensor Circuit">
