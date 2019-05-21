@@ -47,5 +47,5 @@ Try to align the charging port of the LiPo Rider with the hole on the case.
 Just upload the ultrasonic_glasses.ino to the Arduino, close the case, charge the battery and turn it on. For the first few seconds the device will make a constant beeping sound to let the ultrasonic sensor do first calibration. After that it will start beeping based on the distance of the objects you are looking. 
 
 ## Final words
-As said, this is a proof of concept. Feel free to fork it to upgrade / simplify it even further. Also I'd be super happy if you send me an email if you build one and test it with a visually impaired friend of yours. After all, the purpose of this project is to help people to live a more comfortable life through a proper use of technology. It would be very humbling and joyful to see it in use.
+As said, this is a proof of concept. Feel free to fork it to upgrade / simplify it even further. Also I'd be super happy if you send me an email (tolgaozuygur at gmail) if you build one and test it with a visually impaired friend of yours. After all, the purpose of this project is to help people to live a more comfortable life through a proper use of technology. It would be very humbling and joyful to see it in use.
 
