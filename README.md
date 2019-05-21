@@ -1,5 +1,5 @@
 # Ultrasonic Glasses for Visually Impaired
-This is an electronic glasses extension that turns distance data into sound to help visually impaired navigate. Initially built it on my Youtube channel <a href="https://www.youtube.com/channel/UCMPCc9hZ-YBZkEon9tzESVA" target="_blank">Hallederiz</a>, it is the first prototype of an easy to build device to help visually impaired. 
+This is an electronic glasses extension that turns distance data into sound to help visually impaired navigate. Initially built it on my YouTube channel <a href="https://www.youtube.com/channel/UCMPCc9hZ-YBZkEon9tzESVA" target="_blank">Hallederiz</a>, it is the first prototype of an easy to build device to help visually impaired. 
 
 Since this is a proof of content it is bulky and requires to be mounted on a pair of safety glasses.
 
@@ -13,6 +13,8 @@ On the next version I intend to shrink it's size down and make it attachable to 
 
 ## Build it!
 Building the device is quite simple -that's the objective-. You need to 3d print a couple of simple parts, and need some very basic soldering skills to build the circuit. Then upload the arduino code and it will work right away.
+
+The building process is documented on the YouTube channel <a href="https://www.youtube.com/channel/UCMPCc9hZ-YBZkEon9tzESVA" target="_blank">Hallederiz</a>, but the channel is in Turkish, but even though it's in Turkish you can still watch the progress and get some ideas about how to assemble the device together. I intend to add English subtitles soon.
 
 ## Parts Required
 - <a href="https://www.adafruit.com/product/982" target="_blank">1x Maxbotix Ultrasonic Rangefinder - LV-EZ4</a>
