@@ -36,7 +36,7 @@ Solder the components together based on the diagram below. It is quite simple, j
 
 <img src="https://github.com/tolgaozuygur/ultrasonic_glasses/blob/master/visually_impaired_sensor_circuit_bb.png" title="Ultrasonic Sensor Circuit Diagram" alt="Ultrasonic Sensor Circuit Diagram">
 
-## 3d Print and Assembling the Case
+## 3d Printing and Assembling the Case
 Print the stl files in the 3d_files folder. The do not need any support, just print them as they are. (make sure you lay them flat in your slicer). The ultrasonic_glasses_case_spacer.stl file was required to straighten the case on the safety glasses we used (glued it between the case and the glasses), you might not need it. 
 
 Try to align the charging port of the LiPo Rider with the hole on the case. 
