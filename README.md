@@ -34,6 +34,7 @@ The building process is documented on the YouTube channel <a href="https://www.y
 ## Soldering the circuit
 Solder the components together based on the diagram below. It is quite simple, just free-form it using jumper cables and heat shrinking tubes. Be sure there is no short circuit when placing the circuit in the box, use insulation tape on the boards if required.
 
+> I couldn't find the LiPo rider in Fritzing, so I substituted it with a SparkFun LiPo charger in the diagram.
 <img src="https://github.com/tolgaozuygur/ultrasonic_glasses/blob/master/visually_impaired_sensor_circuit_bb.png" title="Ultrasonic Sensor Circuit Diagram" alt="Ultrasonic Sensor Circuit Diagram">
 
 ## 3d Printing and Assembling the Case
