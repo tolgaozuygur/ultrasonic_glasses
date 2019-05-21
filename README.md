@@ -29,7 +29,7 @@ The building process is documented on the YouTube channel <a href="https://www.y
 
 > You can use an Arduino Mini Pro to save space. You can also use a clone if you're tight on budget.
 > Any LiPo battery would work, just check the dimensions of the 3d case to be sure it will fit.
-> You can use small LiPo Charger and a small DC-DC Step up board instead of the Lipo Rider to save even more space.
+> You can use a small LiPo Charger and a small DC-DC step-up board instead of the Lipo Rider to save even more space.
 
 ## Soldering the circuit
 Solder the components together based on the diagram below. It is quite simple, just free-form it using jumper cables and heat shrinking tubes. Be sure there is no short circuit when placing the circuit in the box, use insulation tape on the boards if required.
